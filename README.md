@@ -1,6 +1,6 @@
 # KISchule
 
-Kursmaterial der KI-Schule mit insitubytes
+Kursmaterial der KI-Schule mit insitubytes zusammen mit Joachim Haenicke und Thomas Rost
 * A1 Einfuehrung Bildverarbeitung
 * A2 Vom Perceptron zu Neuronalen Netzen
 * A3 Ein Blick ins Innere der neuronalen Netze
