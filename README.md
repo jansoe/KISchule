@@ -1,6 +1,7 @@
 # KISchule
 
-Kursmaterial der KI-Schule mit insitubytes zusammen mit Joachim Haenicke und Thomas Rost
+Kursmaterial der KI-Schule von insitubytes 
+Entworfen und gestaltet von Joachim Haenicke, Thomas Rost und Jan Soelter
 * A1 Einfuehrung Bildverarbeitung
 * A2 Vom Perceptron zu Neuronalen Netzen
 * A3 Ein Blick ins Innere der neuronalen Netze
